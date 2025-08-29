@@ -1,11 +1,51 @@
-circleId;name;description
-C1;Graph Databases;"Community for Neo4j; Gremli; and graph theory enthusiasts"
-C2;Data Science;"Discussions about ML; statistics; and data visualization"
-C3;Web Development;"Front-end; back-end; and full-stack development talks"
-C4;Artificial Intelligence;"AI;  ML; deep learning; and neural networks"
-C5;Cyber Security;"InfoSec; ethical hacking; and security best practices"
-C6;DevOps;"CI/CD; cloud infrastructure; and automation"
-C7;Mobile Development;"iOS; Android; and cross-platform app development"
-C8;Game Development;"Game design; engines; and development techniques"
-C9;Blockchain;"Crypto; smart contracts; and decentralized applications"
-C10;UX/UI Design;User experience and interface design principles
+circleId;name;description;createdDate
+C1;Data Science Enthusiasts;A community for Data Science Enthusiasts to connect and share ideas.;2023/06/05
+C2;Graph Database Learners;A community for Graph Database Learners to connect and share ideas.;2022/11/18
+C3;Web Developers;A community for Web Developers to connect and share ideas.;2024/09/20
+C4;Machine Learning Masters;A community for Machine Learning Masters to connect and share ideas.;2024/10/05
+C5;Python Programmers;A community for Python Programmers to connect and share ideas.;2025/01/04
+C6;JavaScript Developers;A community for JavaScript Developers to connect and share ideas.;2022/03/23
+C7;Startup Founders;A community for Startup Founders to connect and share ideas.;2024/06/08
+C8;Digital Artists;A community for Digital Artists to connect and share ideas.;2021/12/26
+C9;Photography Lovers;A community for Photography Lovers to connect and share ideas.;2021/11/27
+C10;Travel Bloggers;A community for Travel Bloggers to connect and share ideas.;2024/03/06
+C11;Foodies United;A community for Foodies United to connect and share ideas.;2022/04/10
+C12;Fitness Motivation;A community for Fitness Motivation to connect and share ideas.;2024/05/22
+C13;Astronomy Club;A community for Astronomy Club to connect and share ideas.;2024/12/18
+C14;Bookworms;A community for Bookworms to connect and share ideas.;2022/01/29
+C15;Music Producers;A community for Music Producers to connect and share ideas.;2023/05/27
+C16;Film Buffs;A community for Film Buffs to connect and share ideas.;2021/09/12
+C17;Language Exchange;A community for Language Exchange to connect and share ideas.;2023/07/29
+C18;Career Hackers;A community for Career Hackers to connect and share ideas.;2021/10/12
+C19;Sustainable Living;A community for Sustainable Living to connect and share ideas.;2022/09/25
+C20;Game Development;A community for Game Development to connect and share ideas.;2024/01/26
+C21;UX/UI Designers;A community for UX/UI Designers to connect and share ideas.;2024/04/19
+C22;Cybersecurity Network;A community for Cybersecurity Network to connect and share ideas.;2024/10/23
+C23;Remote Workers;A community for Remote Workers to connect and share ideas.;2023/02/24
+C24;Entrepreneurship;A community for Entrepreneurship to connect and share ideas.;2023/09/07
+C25;Stock Market Investors;A community for Stock Market Investors to connect and share ideas.;2023/11/15
+C26;Public Speaking;A community for Public Speaking to connect and share ideas.;2021/12/02
+C27;Home Cooks;A community for Home Cooks to connect and share ideas.;2022/06/03
+C28;DIY Projects;A community for DIY Projects to connect and share ideas.;2023/09/19
+C29;Pet Lovers;A community for Pet Lovers to connect and share ideas.;2022/01/26
+C30;Mental Health Support;A community for Mental Health Support to connect and share ideas.;2022/01/19
+C31;FinTech Innovators;A community for FinTech Innovators to connect and share ideas.;2025/03/13
+C32;Blockchain Technology;A community for Blockchain Technology to connect and share ideas.;2023/10/20
+C33;VR & AR Explorers;A community for VR & AR Explorers to connect and share ideas.;2024/01/25
+C34;Creative Writers;A community for Creative Writers to connect and share ideas.;2023/05/19
+C35;History Fans;A community for History Fans to connect and share ideas.;2022/06/03
+C36;Philosophy Discussions;A community for Philosophy Discussions to connect and share ideas.;2021/09/19
+C37;Math Theory;A community for Math Theory to connect and share ideas.;2023/01/28
+C38;Physics World;A community for Physics World to connect and share ideas.;2023/01/17
+C39;Chemistry Experiments;A community for Chemistry Experiments to connect and share ideas.;2025/03/12
+C40;Biology Research;A community for Biology Research to connect and share ideas.;2025/06/27
+C41;Gardening Tips;A community for Gardening Tips to connect and share ideas.;2021/09/04
+C42;Sports Analytics;A community for Sports Analytics to connect and share ideas.;2025/03/03
+C43;Fantasy Football;A community for Fantasy Football to connect and share ideas.;2024/10/01
+C44;Craft Beer Enthusiasts;A community for Craft Beer Enthusiasts to connect and share ideas.;2025/06/06
+C45;Coffee Connoisseurs;A community for Coffee Connoisseurs to connect and share ideas.;2024/10/07
+C46;Vintage Car Restorers;A community for Vintage Car Restorers to connect and share ideas.;2024/08/08
+C47;Sailing Community;A community for Sailing Community to connect and share ideas.;2024/04/19
+C48;Hiking Adventures;A community for Hiking Adventures to connect and share ideas.;2023/05/31
+C49;Yoga Practitioners;A community for Yoga Practitioners to connect and share ideas.;2024/04/13
+C50;Meditation Group;A community for Meditation Group to connect and share ideas.;2022/10/21
